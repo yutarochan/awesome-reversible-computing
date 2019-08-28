@@ -7,3 +7,4 @@ Papers, Video Lectures, and Resources on Reversible Computing
 3. [Energy-Efficient Algorithms](https://arxiv.org/abs/1605.08448)
 4. [Introduction to Reversible Computing: Motivation, Progress, and Challenges](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.428.9578&rep=rep1&type=pdf)
 5. [Foundations of Generalized Reversible Computing](https://cfwebprod.sandia.gov/cfdocs/CompResearch/docs/grc-rc17-preprint2.pdf)
+6. [Building a Completely Reversible Computer](https://arxiv.org/abs/1702.08715)
